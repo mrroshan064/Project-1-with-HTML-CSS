@@ -1,0 +1,36 @@
+body{
+    font-family:monospace;
+    padding: 0px 20px;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    text-transform: Uppercase;
+    border-bottom: 2px solid black;
+    
+}
+p{
+font-size:16px;
+text-align:justify;
+}
+ nav{
+    background:cyan;
+ }
+  nav ul{
+    list-style: none;
+    text-align:center;
+  }
+  ul li{
+    border-bottom: 2px solid black;
+    display: inline-block;
+    padding:10px;
+    margin:15px;
+    font-size:20px;
+
+  }
+  section{
+    margin-top: 40px;
+  }
+
+  
